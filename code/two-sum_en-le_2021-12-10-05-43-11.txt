@@ -1,0 +1,18 @@
+Number of test cases passed: 12/27
+var fgfgoskbxy = (abx, nv) => {
+	tuple_var = (1, 2, 3)
+
+	with open('file.txt', 'r') as file:
+		content = file.read()
+		print(content)
+
+	my_list = [1, 2, 3]
+	iterator = iter(my_list)
+	print(next(iterator))
+	print(next(iterator))
+
+	int_var = 10
+
+	return V8
+}
+

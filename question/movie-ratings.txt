@@ -1,0 +1,19 @@
+---
+Title: Movie Ratings
+Description: Given a set of movie ratings, compute the average rating for each movie or filter movies by a specific rating threshold.
+Setter: Jim
+Commonality: common
+Example_problem_title: Movie Rating System
+---
+Given a list of movie ratings, return the average rating for each movie.
+Ratings are floating point numbers between 0.0 and 10.0.
+
+Example:
+Given ratings = [3.5, 4.0, 2.5, 4.5], return 3.875.
+
+Example:
+Given ratings = [5.0, 6.5, 7.0, 8.0, 9.0], return 7.0.
+
+Example:
+Given ratings = [10.0, 10.0, 10.0, 10.0], return 10.0.
+

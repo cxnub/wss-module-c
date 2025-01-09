@@ -1,0 +1,12 @@
+---
+Title: Edmons Karp
+Description: An implementation of the Ford-Fulkerson method for computing the maximum flow in a flow network using breadth-first search.
+Author: Edmonds & Karp
+Example_problem_title: Maximum Flow Problem
+---
+Implement the Edmonds-Karp algorithm to find the maximum flow in a flow network using BFS.
+The graph will have a set of nodes and edges with capacities.
+
+Example:
+Given a flow network, return the maximum flow from source to sink.
+

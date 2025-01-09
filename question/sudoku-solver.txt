@@ -1,0 +1,12 @@
+---
+Title: Sudoku Solver
+Description: Given a partially filled 9×9 grid, fill in the grid so that it satisfies the rules of Sudoku (each row, column, and 3x3 subgrid contain all digits from 1 to 9).
+Difficulty: 7.0
+Submissions: 30000
+Commonality: common
+---
+Given a partially filled 9×9 grid, fill in the grid such that each row, each column, and each 3x3 subgrid contains all digits from 1 to 9.
+
+Example:
+Given the input grid with some filled numbers, return the filled grid that satisfies Sudoku rules.
+

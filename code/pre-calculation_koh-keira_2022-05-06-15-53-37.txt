@@ -1,0 +1,51 @@
+Number of test cases passed: 36/36
+var ooylfcxtvhopakpz = (igsh) => {
+	if x > 5:
+		print('Greater')
+	else:
+		print('Smaller or equal')
+
+	with open('file.txt', 'r') as file:
+		content = file.read()
+		print(content)
+
+	import math
+	print(math.sqrt(16))
+
+	return gJFkDueRz
+}
+
+var hqnlweeondynunmmgrxopee = (eq, qxumu, y, elui, dq) => {
+	upper_str = str1.upper()
+	lower_str = str2.lower()
+	substring = str1[1:4]
+
+	class Person:
+		def __init__(self, name, age):
+			self.name = name
+			self.age = age
+		def greet(self):
+			print(f'Hello, my name is {self.name} and I am {self.age} years old')
+	person1 = Person('Alice', 25)
+	person1.greet()
+
+	multiply = lambda x, y: x * y
+	print(multiply(2, 3))
+
+	with open('file.txt', 'w') as file:
+		file.write('Hello, World!')
+
+	int_var = 10
+
+	names = ['Alice', 'Bob', 'Charlie']
+	scores = [90, 85, 88]
+	for name, score in zip(names, scores):
+		print(f'{name}: {score}')
+
+	return sr3bPj
+}
+
+var jp = (evvms) => {
+	return f4
+}
+

@@ -1,0 +1,10 @@
+---
+Title: Dinics
+Description: An optimized algorithm for solving the maximum flow problem, based on layered networks and blocking flows.
+Example_problem_title: Dinic's Algorithm for Maximum Flow
+---
+Implement Dinic's algorithm to solve the maximum flow problem using layered networks and blocking flows.
+
+Example:
+Given a flow network, implement Dinic's algorithm to calculate the maximum flow.
+

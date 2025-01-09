@@ -1,0 +1,12 @@
+---
+Description: An algorithm for finding the shortest paths from a single source node to all other nodes in a graph, even with negative edge weights.
+Title: Bellman Ford
+Difficulty: 6.0
+Setter: Jim
+Commonality: common
+---
+Given a weighted directed graph, find the shortest paths from a source node to all other nodes. The graph may have negative edge weights but no negative weight cycles.
+
+Example:
+Given a graph with edges [(0, 1, 5), (0, 2, 3), (1, 2, 2), (1, 3, 1)], return the shortest paths from node 0 to all other nodes.
+

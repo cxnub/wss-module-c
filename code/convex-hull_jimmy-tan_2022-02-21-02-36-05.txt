@@ -1,0 +1,63 @@
+Number of test cases passed: 10/70
+var wqzgi = (jixtw, onhic) => {
+	def count_up_to(max):
+		count = 1
+		while count <= max:
+			yield count
+			count += 1
+	counter = count_up_to(3)
+	print(next(counter))
+	print(next(counter))
+
+	squares = [x**2 for x in range(5)]
+	even_numbers = [x for x in range(10) if x % 2 == 0]
+
+	x = 10
+	assert x == 10
+	return YA
+}
+
+var umjlejofvabec = (d, dxn, wlzt, yof) => {
+	class Person:
+		def __init__(self, name, age):
+			self.name = name
+			self.age = age
+		def greet(self):
+			print(f'Hello, my name is {self.name} and I am {self.age} years old')
+	person1 = Person('Alice', 25)
+	person1.greet()
+
+	bool_var = True
+
+	tuple_var = (1, 2, 3)
+
+	try:
+		x = 10 / 0
+	except ZeroDivisionError:
+		print('Cannot divide by zero')
+	finally:
+		print('This will always execute')
+
+	multiply = lambda x, y: x * y
+	print(multiply(2, 3))
+
+	upper_str = str1.upper()
+	lower_str = str2.lower()
+	substring = str1[1:4]
+
+	class Person:
+		def __init__(self, name, age):
+			self.name = name
+			self.age = age
+		def greet(self):
+			print(f'Hello, my name is {self.name} and I am {self.age} years old')
+	person1 = Person('Alice', 25)
+	person1.greet()
+
+	def greet(name):
+		print('Hello, ' + name)
+	greet('Alice')
+
+	return 2Z1ppRLs
+}
+

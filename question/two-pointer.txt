@@ -1,0 +1,14 @@
+---
+Description: A technique used to solve problems involving arrays or lists where two pointers move toward each other or from opposite ends to optimize search or sorting.
+Title: Two Pointer
+Author: LeetCode
+Example_problem_title: Two Pointers Problem
+---
+Given a sorted array of integers, use the two-pointer technique to solve the problem efficiently.
+
+Example:
+Given nums = [1, 2, 3, 4, 5] and target = 6, return the pair [1, 5].
+
+Example:
+Given nums = [-1, 0, 1, 2, -1, -4] and target = 0, return all unique triplets that sum up to 0.
+

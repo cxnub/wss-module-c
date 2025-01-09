@@ -1,0 +1,21 @@
+Number of test cases passed: 15/24
+var r = () => {
+	if x > 5:
+		print('Greater')
+	else:
+		print('Smaller or equal')
+
+	my_dict = {'a': 1, 'b': 2}
+	value = my_dict['a']
+	my_dict['c'] = 3
+	del my_dict['b']
+
+	return M9 Z9ep7Y
+}
+
+var tawyvpzyagt = (cpuy, hzak, qzmp, i) => {
+	set_var = {1, 2, 3}
+
+	return k 
+}
+

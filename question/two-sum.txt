@@ -1,0 +1,18 @@
+---
+Title: Two Sum
+Description: Given an array of integers, find two numbers such that their sum equals a target value.
+Difficulty: 3.5
+Setter: Timmy
+---
+Given an array of integers, nums, and a target value, return the indices of the two numbers that add up to the target.
+The inputs will be between -10^9 and 10^9 and the array length will not exceed 10^4.
+
+Example:
+Given nums = [2, 7, 11, 15] and target = 9, return the indices [0, 1].
+
+Example:
+Given nums = [3, 2, 4] and target = 6, return the indices [1, 2].
+
+Example:
+Given nums = [3, 3] and target = 6, return the indices [0, 1].
+

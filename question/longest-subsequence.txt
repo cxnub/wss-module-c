@@ -1,0 +1,18 @@
+---
+Title: Longest Subsequence
+Description: Find the longest subsequence of a given sequence that is strictly increasing or satisfies a particular condition.
+Setter: Eric
+Author: LeetCode
+---
+Given an array of integers, find the length of the longest increasing subsequence.
+The input array will have at most length 1000.
+
+Example:
+Given nums = [10, 9, 2, 5, 3, 7, 101, 18], return 4.
+
+Example:
+Given nums = [0, 1, 0, 3, 2, 3], return 4.
+
+Example:
+Given nums = [7, 7, 7, 7, 7, 7], return 1.
+

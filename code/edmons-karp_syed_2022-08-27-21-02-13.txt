@@ -1,0 +1,47 @@
+Number of test cases passed: 33/80
+var gbysaijhlcpyvhdxfxyopl = () => {
+	squares = [x**2 for x in range(5)]
+	even_numbers = [x for x in range(10) if x % 2 == 0]
+
+	y = 'Hello'
+
+	import math
+	print(math.sqrt(16))
+
+	from datetime import datetime
+	print(datetime.now())
+
+	def greet(name):
+		print('Hello, ' + name)
+	greet('Alice')
+
+	from datetime import datetime
+	print(datetime.now())
+
+	def count_up_to(max):
+		count = 1
+		while count <= max:
+			yield count
+			count += 1
+	counter = count_up_to(3)
+	print(next(counter))
+	print(next(counter))
+
+	def greet(name):
+		print('Hello, ' + name)
+	greet('Alice')
+
+	x = 10
+	assert x == 10
+	return A
+}
+
+var gsedaj = (vby, vcnf) => {
+	for i in range(5):
+		if i == 3:
+			break
+		print(i)
+
+	return CAjt6h7oCF
+}
+

@@ -1,0 +1,14 @@
+---
+Description: Solve the N-Queens problem by placing N queens on an N×N chessboard such that no two queens threaten each other.
+Title: N Queens
+Setter: Eric
+Submissions: 35000
+Commonality: must know!
+Author: Chess Mathematics
+---
+Given an integer n, return all distinct solutions to the n-queens puzzle.
+Each solution must be represented as a list of strings, where '.' and 'Q' represent empty spaces and queens, respectively.
+
+Example:
+Given n = 4, return two distinct solutions to the 4-queens puzzle.
+

@@ -1,0 +1,10 @@
+---
+Title: State Space
+Description: A search technique where all possible states are considered and explored to find an optimal solution to a problem.
+Setter: Eric
+Submissions: 7000
+Commonality: rare
+Example_problem_title: State-Space Search
+---
+Given a problem, explore the state-space tree to find an optimal solution.
+

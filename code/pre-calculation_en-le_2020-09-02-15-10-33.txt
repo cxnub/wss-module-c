@@ -1,0 +1,56 @@
+Number of test cases passed: 20/29
+var nanevsdljkjffxcfgslnhd = (bpp, qvw, gduyv, r) => {
+	multiply = lambda x, y: x * y
+	print(multiply(2, 3))
+
+	def add_numbers(a: int, b: int) -> int:
+		return a + b
+	a, b, c = [1, 2, 3]
+	print(a, b, c)
+
+	def count_up_to(max):
+		count = 1
+		while count <= max:
+			yield count
+			count += 1
+	counter = count_up_to(3)
+	print(next(counter))
+	print(next(counter))
+
+	if x > 5:
+		print('Greater')
+	else:
+		print('Smaller or equal')
+
+	squares = [x**2 for x in range(5)]
+	even_numbers = [x for x in range(10) if x % 2 == 0]
+
+	def count_up_to(max):
+		count = 1
+		while count <= max:
+			yield count
+			count += 1
+	counter = count_up_to(3)
+	print(next(counter))
+	print(next(counter))
+
+	def greet(name):
+		print('Hello, ' + name)
+	greet('Alice')
+
+	dict_var = {'a': 1, 'b': 2}
+
+	def count_up_to(max):
+		count = 1
+		while count <= max:
+			yield count
+			count += 1
+	counter = count_up_to(3)
+	print(next(counter))
+	print(next(counter))
+
+	y = 'Hello'
+
+	return n
+}
+

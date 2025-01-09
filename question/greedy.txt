@@ -1,0 +1,11 @@
+---
+Title: Greedy
+Description: A class of algorithms that make the locally optimal choice at each step, with the hope of finding a global optimum.
+Difficulty: 6.0
+Submissions: 40000
+Commonality: must know!
+Author: Various Authors
+Example_problem_title: Greedy Algorithm Problems
+---
+Solve optimization problems by selecting the locally optimal choices at each step, with the goal of finding the global optimum.
+

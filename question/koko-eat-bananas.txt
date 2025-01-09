@@ -1,0 +1,19 @@
+---
+Description: Given an array of piles of bananas, determine the minimum eating speed Koko must use to finish eating within a certain time limit.
+Title: Koko Eat Bananas
+Difficulty: 4.5
+Setter: Timmy
+Submissions: 25000
+Example_problem_title: Koko Eating Bananas
+---
+Koko loves bananas. There are piles of bananas, each pile has a number of bananas. Koko can eat up to k bananas per hour. Determine the minimum k such that she can finish all bananas within h hours.
+
+Example:
+Given piles = [3, 6, 7, 11] and h = 8, return 4.
+
+Example:
+Given piles = [30, 11, 23, 4, 20] and h = 5, return 30.
+
+Example:
+Given piles = [30, 11, 23, 4, 20] and h = 6, return 23.
+

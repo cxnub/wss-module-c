@@ -1,0 +1,10 @@
+---
+Title: Dfs
+Description: Depth-first search algorithm for exploring a graph or tree by going deep into the nodes before backtracking.
+Author: Charles Babbage
+---
+Given a graph represented by an adjacency list, implement the depth-first search (DFS) algorithm to explore the graph.
+
+Example:
+Given a graph, explore it by visiting nodes as deeply as possible before backtracking.
+

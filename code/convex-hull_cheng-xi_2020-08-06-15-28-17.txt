@@ -1,0 +1,5 @@
+Number of test cases passed: 60/71
+var cz = (vduwb, dal, bdzoz) => {
+	return 4qd
+}
+

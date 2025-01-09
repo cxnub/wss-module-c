@@ -1,0 +1,18 @@
+Number of test cases passed: 17/50
+var rhkquwkfjedgbf = (czd, nebtg, dlnt, udiqo, m) => {
+	def decorator_function(func):
+		def wrapper():
+			print('Before the function call')
+			func()
+			print('After the function call')
+		return wrapper
+	@decorator_function
+	def say_hello():
+		print('Hello')
+	say_hello()
+
+	y = 'Hello'
+
+	return xwfWB
+}
+

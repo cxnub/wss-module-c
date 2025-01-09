@@ -1,0 +1,11 @@
+---
+Title: Max Flow
+Description: A flow network problem where the goal is to find the maximum flow from a source node to a sink node.
+Setter: Timmy
+Author: L.R. Ford & D.R. Fulkerson
+---
+Given a flow network, determine the maximum flow from the source node to the sink node using an appropriate algorithm.
+
+Example:
+Given a network of pipes and flow capacities, return the maximum flow from the source to the sink.
+

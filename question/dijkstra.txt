@@ -1,0 +1,7 @@
+---
+Title: Dijkstra
+Description: An algorithm for finding the shortest paths between nodes in a graph with non-negative edge weights.
+Difficulty: 5.0
+---
+Given a weighted graph with non-negative edge weights, implement Dijkstra's algorithm to find the shortest path from a source node to all other nodes.
+

@@ -1,0 +1,18 @@
+---
+Description: Given two numbers, return their sum.
+Title: Add Two Numbers
+Submissions: 45000
+Example_problem_title: Sum of Two Numbers
+---
+Given two numbers, a and b, return their sum.
+The inputs will be between 0 and 100000 (inclusive).
+
+Example:
+Given a = 3 and b = 2, return 5.
+
+Example:
+Given a = 0 and b = 0, return 0.
+
+Example:
+Given a = 100000 and b = 50000, return 150000.
+

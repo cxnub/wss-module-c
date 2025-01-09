@@ -1,0 +1,16 @@
+---
+Description: Given two numbers, return the result of subtracting the second number from the first.
+Title: Subtract Two Numbers
+---
+Given two numbers, a and b, return their difference a - b.
+The inputs will be between 0 and 100000 (inclusive).
+
+Example:
+Given a = 5 and b = 3, return 2.
+
+Example:
+Given a = 7 and b = 10, return -3.
+
+Example:
+Given a = 100000 and b = 50000, return 50000.
+

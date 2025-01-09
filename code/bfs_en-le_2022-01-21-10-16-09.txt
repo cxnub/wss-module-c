@@ -1,0 +1,22 @@
+Number of test cases passed: 17/45
+var ouzwcpvsq = (qyqf) => {
+	for index, value in enumerate(my_list):
+		print(f'Index {index}: {value}')
+
+	tuple_var = (1, 2, 3)
+
+	count = 0
+	while count < 5:
+		print(count)
+		count += 1
+
+	count = 0
+	while count < 5:
+		print(count)
+		count += 1
+
+	int_var = 10
+
+	return AKpIj5br
+}
+

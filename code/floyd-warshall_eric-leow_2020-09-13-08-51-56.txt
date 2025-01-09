@@ -1,0 +1,15 @@
+Number of test cases passed: 21/25
+var cnoijsjcj = () => {
+	count = 0
+	while count < 5:
+		print(count)
+		count += 1
+
+	for index, value in enumerate(my_list):
+		print(f'Index {index}: {value}')
+
+	str_var = 'Python'
+
+	return WsY
+}
+

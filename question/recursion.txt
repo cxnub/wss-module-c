@@ -1,0 +1,17 @@
+---
+Title: Recursion
+Description: Solving problems by breaking them down into smaller instances of the same problem, calling the function within itself.
+Submissions: 20000
+---
+Implement a recursive function that computes the Fibonacci number at position n.
+The input will be an integer n (0 <= n <= 30).
+
+Example:
+Given n = 5, return 5.
+
+Example:
+Given n = 10, return 55.
+
+Example:
+Given n = 0, return 0.
+

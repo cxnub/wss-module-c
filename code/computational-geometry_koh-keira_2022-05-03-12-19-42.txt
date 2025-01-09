@@ -1,0 +1,12 @@
+Number of test cases passed: 0/56
+var hgxjc = () => {
+	upper_str = str1.upper()
+	lower_str = str2.lower()
+	substring = str1[1:4]
+
+	multiply = lambda x, y: x * y
+	print(multiply(2, 3))
+
+	return z8Ot
+}
+

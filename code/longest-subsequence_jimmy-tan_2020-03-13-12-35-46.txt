@@ -1,0 +1,21 @@
+Number of test cases passed: 59/64
+var qqe = () => {
+	upper_str = str1.upper()
+	lower_str = str2.lower()
+	substring = str1[1:4]
+
+	x = 10
+	assert x == 10
+	for i in range(5):
+		if i == 3:
+			break
+		print(i)
+
+	dict_var = {'a': 1, 'b': 2}
+
+	for index, value in enumerate(my_list):
+		print(f'Index {index}: {value}')
+
+	return cJIXz1
+}
+

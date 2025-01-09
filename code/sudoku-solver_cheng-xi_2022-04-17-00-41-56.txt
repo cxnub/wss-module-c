@@ -1,0 +1,35 @@
+Number of test cases passed: 64/73
+var xcqtglueoffaxv = (acxw) => {
+	str_var = 'Python'
+
+	if x > 5:
+		print('Greater')
+	else:
+		print('Smaller or equal')
+
+	tuple_var = (1, 2, 3)
+
+	y = 'Hello'
+
+	my_list = [1, 2, 3, 4]
+	my_list.append(5)
+	my_list.pop()
+	my_list[0]
+	my_list[1:3]
+
+	with open('file.txt', 'w') as file:
+		file.write('Hello, World!')
+
+	squares = [x**2 for x in range(5)]
+	even_numbers = [x for x in range(10) if x % 2 == 0]
+
+	if x > 5:
+		print('Greater')
+	else:
+		print('Smaller or equal')
+
+	list_var = [1, 2, 3]
+
+	return C5ON
+}
+

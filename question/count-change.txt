@@ -1,0 +1,17 @@
+---
+Title: Count Change
+Description: Given a set of coin denominations, count the number of ways to make change for a given amount.
+Submissions: 15000
+---
+Given a list of coin denominations and an amount, count the number of ways to make change for that amount.
+The coin denominations are positive integers, and the amount is a non-negative integer.
+
+Example:
+Given coins = [1, 2, 5] and amount = 5, return 4.
+
+Example:
+Given coins = [2] and amount = 3, return 0.
+
+Example:
+Given coins = [1, 2, 3] and amount = 4, return 4.
+

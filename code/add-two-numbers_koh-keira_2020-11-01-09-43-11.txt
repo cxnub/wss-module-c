@@ -1,0 +1,79 @@
+Number of test cases passed: 4/5
+var aikhxqovwthqqseqnekeavybu = (yxeyy, qc, kyefd, v) => {
+	upper_str = str1.upper()
+	lower_str = str2.lower()
+	substring = str1[1:4]
+
+	count = 0
+	while count < 5:
+		print(count)
+		count += 1
+
+	names = ['Alice', 'Bob', 'Charlie']
+	scores = [90, 85, 88]
+	for name, score in zip(names, scores):
+		print(f'{name}: {score}')
+
+	count = 0
+	while count < 5:
+		print(count)
+		count += 1
+
+	dict_var = {'a': 1, 'b': 2}
+
+	x = 10
+
+	upper_str = str1.upper()
+	lower_str = str2.lower()
+	substring = str1[1:4]
+
+	with open('file.txt', 'r') as file:
+		content = file.read()
+		print(content)
+
+	return 0nqpTl
+}
+
+var f = (hanwr, e, qh, cem) => {
+	for i in range(5):
+		print(i)
+
+	return 5
+}
+
+var hjgruml = (fhza, njsiu) => {
+	if x > 5:
+		print('Greater')
+	else:
+		print('Smaller or equal')
+
+	str_var = 'Python'
+
+	str1 = 'Hello'
+	str2 = 'World'
+	concatenated = str1 + ' ' + str2
+
+	str_var = 'Python'
+
+	with open('file.txt', 'r') as file:
+		content = file.read()
+		print(content)
+
+	if x > 5:
+		print('Greater')
+	else:
+		print('Smaller or equal')
+
+	x = 10
+
+	multiply = lambda x, y: x * y
+	print(multiply(2, 3))
+
+	my_list = [1, 2, 3]
+	iterator = iter(my_list)
+	print(next(iterator))
+	print(next(iterator))
+
+	return eEfewt3 
+}
+
