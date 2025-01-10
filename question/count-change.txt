@@ -1,6 +1,7 @@
 ---
 Title: Count Change
-Description: Given a set of coin denominations, count the number of ways to make change for a given amount.
+Description: Given a set of coin denominations, 
+count the number of ways to make change for a given amount.
 Submissions: 15000
 ---
 Given a list of coin denominations and an amount, count the number of ways to make change for that amount.
