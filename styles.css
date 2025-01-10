@@ -1,0 +1,70 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.question-table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    width: 80%;
+    min-height: 600px;
+}
+
+th {
+    border-bottom: 1px solid rgb(98, 98, 98);
+}
+
+th,
+td {
+    padding: 8px 10px;
+    text-align: left;
+}
+
+.question-row:hover {
+    color: blue;
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.question-title {
+    font-weight: bold;
+}
+
+#search-box {
+    height: 36px;
+    width: 60%;
+    padding: 8px;
+    margin: 8px;
+}
+
+.question-container {
+    line-height: 1.5;
+}
+
+.question-container p {
+    font-size: 24px;
+}
+
+.example {
+    border: 2px solid green;
+    padding: 20px;
+}
+
+#link {
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+}
+
+#link:hover {
+    cursor: pointer;
+}

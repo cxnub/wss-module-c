@@ -49,7 +49,7 @@ const parseQuestions = async (filenames) => {
             let parser = new DOMParser();
             let doc = parser.parseFromString(res, "text/html");
 
-            questions[filename.split('.html')[0].split('-').join(' ')] = doc;
+            questions[filename.split('.html')[0].split('-').join(' ')] = res;
             continue;
         }
 
@@ -125,6 +125,11 @@ const displayQuestions = () => {
             <td class="question-title">${title}</td>
             <td>${question.Description}</td>
         `
+        let data = {title: title, question: question}
+        newRow.onclick = () => {
+            history.pushState(data, "", "statement.html");
+            location.reload();
+        }
         table.appendChild(newRow);
     }
 }
