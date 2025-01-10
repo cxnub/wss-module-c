@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questions</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="main-container">
+        <h1>Questions</h1>
+        <input id="search-box" placeholder="Search questions...">
+        <table class="question-table" id="question-table">
+            <tr id="header-row">
+                <th>Title</th>
+                <th>Description</th>
+            </tr>
+            <tr class="question-row">
+                <td class="question-title">Two SUms</td>
+                <td>Add two numbers</td>
+            </tr>
+        </table>
+        <div class="pagination-btns">
+            <button id="start"><< Go to Start</button>
+            <button id="left">< Previous</button>
+            <button id="right">Next ></button>
+            <button id="end">Go to End >></button>
+        </div>
+        <p id="page">1</p>
+        
+    </div>
+    <script src="questions.js"></script>
+</body>
+</html>
