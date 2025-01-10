@@ -1,5 +1,6 @@
 ---
-Description: An algorithm for finding the shortest paths from a single source node to all other nodes in a graph, even with negative edge weights.
+Description: An algorithm for finding the shortest paths from a single source node to all other nodes in a graph, 
+even with negative edge weights.
 Title: Bellman Ford
 Difficulty: 6.0
 Setter: Jim
